@@ -47,7 +47,7 @@ Sensação - Sensation (Skt. vedanā; Tib. ཚོར་བ་, tsorwa; Wyl. tsho
 
 Desejo - Craving (Skt. tṛṣṅā; Tib. སྲེད་པ་, sepa; Wyl. sred pa): There then develops a desire not to be separated from pleasurable sensations and to be free from painful sensations.
 
-Apego/ - Grasping (Skt. upādāna; Tib. ལེན་པ་, lenpa; Wyl. len pa): As craving increases, it develops into grasping, i.e. actively striving never to be separated from what is pleasurable and to avoid what is painful.
+Apego/Ganância - Grasping (Skt. upādāna; Tib. ལེན་པ་, lenpa; Wyl. len pa): As craving increases, it develops into grasping, i.e. actively striving never to be separated from what is pleasurable and to avoid what is painful.
 
 Becoming (Skt. bhava; Tib. སྲིད་པ་, sipa; Wyl. srid pa): Through this grasping one acts with body, speech and mind, and creates the karma that determines one’s next existence.
 
