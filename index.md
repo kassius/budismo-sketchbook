@@ -30,7 +30,7 @@ Consciência Realizadora - Kṛty-anuṣṭhāna-jñāna, the wisdom of "Accompl
 
 # Os Doze Elos de Originação Dependente
 
-Cegueira - Ignorance (Skt. avidyā; Tib. མ་རིག་པ་, ma rigpa; Wyl. ma rig pa): Fundamental ignorance of the truths and the delusion of mistakenly perceiving the skandhas as a self.
+Ignorance (Skt. avidyā; Tib. མ་རིག་པ་, ma rigpa; Wyl. ma rig pa): Fundamental ignorance of the truths and the delusion of mistakenly perceiving the skandhas as a self.
 
 Formation (Skt. saṁskāra; Tib. འདུ་བྱེད་, duje; Wyl. 'du byed): As long as there is ignorance there is the formation of karma: positive, negative and neutral. This forms the rebirths in the various realms.
 
