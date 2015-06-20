@@ -29,6 +29,7 @@ Consciência Realizadora - Kṛty-anuṣṭhāna-jñāna, the wisdom of "Accompl
 
 
 # Os Doze Elos de Originação Dependente
+http://www.rigpawiki.org/index.php?title=Twelve_nidanas
 
 Ignorance (Skt. avidyā; Tib. མ་རིག་པ་, ma rigpa; Wyl. ma rig pa): Fundamental ignorance of the truths and the delusion of mistakenly perceiving the skandhas as a self.
 
