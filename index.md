@@ -49,8 +49,8 @@ Desejo - Craving (Skt. tṛṣṅā; Tib. སྲེད་པ་, sepa; Wyl. sred
 
 Apego/Ganância - Grasping (Skt. upādāna; Tib. ལེན་པ་, lenpa; Wyl. len pa): As craving increases, it develops into grasping, i.e. actively striving never to be separated from what is pleasurable and to avoid what is painful.
 
-Becoming (Skt. bhava; Tib. སྲིད་པ་, sipa; Wyl. srid pa): Through this grasping one acts with body, speech and mind, and creates the karma that determines one’s next existence.
+Vir a ser - Becoming (Skt. bhava; Tib. སྲིད་པ་, sipa; Wyl. srid pa): Through this grasping one acts with body, speech and mind, and creates the karma that determines one’s next existence.
 
-Rebirth (Skt. jāti; Tib. སྐྱེ་བ་, kyewa; Wyl. skye ba): Through the power of this becoming, one is reborn in a particular birthplace whenever the necessary conditions are assembled.
+Renascimento - Rebirth (Skt. jāti; Tib. སྐྱེ་བ་, kyewa; Wyl. skye ba): Through the power of this becoming, one is reborn in a particular birthplace whenever the necessary conditions are assembled.
 
 Envelhecimento e morte - Old age and death (Skt. jarā-maraṇa; Tib. རྒ་ཤི་, ga shi; Wyl. rga shi): Following rebirth there is a continual process of aging as the aggregates change and develop; and eventually there is death when the aggregates finally cease.
