@@ -1,4 +1,4 @@
 # budismo-sketchbook
-Criação de uma lista em português das escalas do Budismo
+Criação de uma lista no idioma Brasileiro das escalas do Budismo
 
 Em Criação.
