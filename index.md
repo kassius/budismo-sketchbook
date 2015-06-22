@@ -25,6 +25,14 @@ Consciência Discriminativa- Pratyavekṣaṇa-jñāna, the wisdom of "Investiga
 
 Consciência Realizadora - Kṛty-anuṣṭhāna-jñāna, the wisdom of "Accomplishing Activities", the awareness that "spontaneously carries out all that has to be done for the welfare of beings, manifesting itself in all directions".[2]
 
+# As Cinco Firmezas
+
+Faith (saddha) - controls doubt
+Energy/Effort/Persistence (viriya) – controls laziness
+Mindfulness (sati); - controls heedlessness
+Concentration (samādhi) - controls distraction
+Wisdom/Discernment (pañña, prajña) – controls ignorance
+
 # As Cinco Famílias
 
 
