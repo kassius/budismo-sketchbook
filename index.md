@@ -80,3 +80,38 @@ http://www.rigpawiki.org/index.php?title=Twelve_nidanas
 **Renascimento** - Rebirth (Skt. jāti; Tib. སྐྱེ་བ་, kyewa; Wyl. skye ba): Through the power of this becoming, one is reborn in a particular birthplace whenever the necessary conditions are assembled.
 
 **Envelhecimento e morte** - Old age and death (Skt. jarā-maraṇa; Tib. རྒ་ཤི་, ga shi; Wyl. rga shi): Following rebirth there is a continual process of aging as the aggregates change and develop; and eventually there is death when the aggregates finally cease.
+
+# Os 16 Solos (Bhumis)
+http://www.rigpawiki.org/index.php?title=Sixteen_bhumis
+
+**Alegria Perfeita** - Perfect Joy (Skt. pramuditābhūmi; Tib. rabtu gawa; Wyl. rab tu dga’ ba)
+
+**Imaculado / Inoxidável** - Immaculate / Stainless (Skt. vimalābhūmi; Tib. drima mepa; Wyl. dri ma med pa) 
+
+**Luminoso / Iluminador** - Luminous / Illuminating (Skt. prabhākarībhūmi; Tib. ö jepa; Wyl. ‘od byed pa) 
+
+**Radiante** - Radiant (Skt. arciṣmatībhūmi; Tib. ö tro chen; Wyl. ‘od ‘phro can) 
+
+**Difícil de Manter / Difícil de Conquistar** - Hard to Keep / Hard to Conquer (Skt. sudurjayābhūmi; Tib. shintu jankawa; Wyl. shin tu sbyang dka’ ba) 
+
+**Claramente Manifestado** - Clearly Manifest (Skt. abhimukhībhūmi; Tib. ngöntu gyurpa; Wyl. mngon du gyur ba) 
+
+**Longo Progresso** - Far Progressed (Skt. duraṅgamabhūmi; Tib. ringtu songwa; Wyl. ring du song ba) 
+
+**Inamovível** - Immovable (Skt. acālabhūmi; Tib. miyowa; Wyl. mi g.yo ba) 
+
+**Imutável** - Perfect Intellect (Skt. sādhuṃatībhūmi; Tib. lekpé lodrö; Wyl. legs pa’i blo gros) 
+
+**Núvem de Dharma** - Cloud of Dharma (Skt. dharmameghaābhūmi; Tib. chökyi trin; Wyl. chos kyi sprin)
+
+**Radiância Universal** - Universal Radiance (Tib. kuntu ö; Wyl. kun tu 'od)
+
+**Lótus de Desapego** - Lotus of Non-Attachment (Tib. machak pema chen; Wyl. ma chags padma can)
+
+**Núvens de Sílabas Girando** - Gatherings of Rotating Syllables (Tib. yige khorlo tsokchen; Wyl. yi ge 'khor lo tshogs chen)
+
+**Grande Samadhi** - Great Samadhi (Tib. tingdzin chenpo; Wyl. ting nge 'dzin chen po)
+
+**Portador do Vajra** - Vajra Holder (Tib. dorje dzin; Wyl. rdo rje 'dzin)
+
+**Sabedoria Sem Igual** - Unexcelled Wisdom (Tib. yeshe lama; Wyl. ye shes bla ma)
