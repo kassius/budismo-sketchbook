@@ -27,11 +27,15 @@ Consciência Realizadora - Kṛty-anuṣṭhāna-jñāna, the wisdom of "Accompl
 
 # As Cinco Firmezas
 
-Faith (saddha) - controls doubt
-Energy/Effort/Persistence (viriya) – controls laziness
-Mindfulness (sati); - controls heedlessness
-Concentration (samādhi) - controls distraction
-Wisdom/Discernment (pañña, prajña) – controls ignorance
+**Fé** - Faith (saddha) - controls doubt
+
+**Energia/Esforço/Persistência** - Energy/Effort/Persistence (viriya) – controls laziness
+
+**Atenção** - Mindfulness (sati); - controls heedlessness
+
+**Concentração** - Concentration (samādhi) - controls distraction
+
+**Sabedoria/Discernimento** - Wisdom/Discernment (pañña, prajña) – controls ignorance
 
 # As Cinco Famílias
 
