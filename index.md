@@ -3,27 +3,27 @@
 # Os Cinco Agregados (Skandas)
 http://www.rigpawiki.org/index.php?title=Skandhas
 
-*Forma* - form (Skt. rūpa; Tib. གཟུགས་, Wyl. gzugs)
+**Forma** - form (Skt. rūpa; Tib. གཟུགས་, Wyl. gzugs)
 
-*Sensação* - feeling (Skt. vedanā; Tib. ཚོར་བ་, Wyl. tshor ba)
+**Sensação** - feeling (Skt. vedanā; Tib. ཚོར་བ་, Wyl. tshor ba)
 
-*Percepção* - perception (Skt. saṃjñā; Tib. འདུ་ཤེས་, Wyl. ‘du shes)
+**Percepção** - perception (Skt. saṃjñā; Tib. འདུ་ཤེས་, Wyl. ‘du shes)
 
-*Formações* - formations (Skt. saṃskāra; Tib. འདུ་བྱེད་, Wyl. ‘du byed)
+**Formações** - formations (Skt. saṃskāra; Tib. འདུ་བྱེད་, Wyl. ‘du byed)
 
-*Consciência* - consciousness (Skt. vijñāna; Tib. རྣམ་ཤེས་, Wyl. rnam shes)
+**Consciência** - consciousness (Skt. vijñāna; Tib. རྣམ་ཤེས་, Wyl. rnam shes)
 
 # As Cinco Sabedorias
 
-Talidade ou Dharmadhatu - Tathatā-jñāna, the wisdom of Suchness or Dharmadhatu, "the bare non-conceptualizing awareness" of Śūnyatā, the universal substrate of the other four jñāna;[2]
+**Sabedoria da Talidade ou Dharmadhatu** - Tathatā-jñāna, the wisdom of Suchness or Dharmadhatu, "the bare non-conceptualizing awareness" of Śūnyatā, the universal substrate of the other four jñāna;[2]
 
-Consciência do Espelho - Ādarśa-jñāna, the wisdom of "Mirror-like Awareness", "devoid of all dualistic thought and ever united with its 'content' as a mirror is with its reflections";[2][note 3]
+**Consciência do Espelho** - Ādarśa-jñāna, the wisdom of "Mirror-like Awareness", "devoid of all dualistic thought and ever united with its 'content' as a mirror is with its reflections";[2][note 3]
 
-Consciência da Equivalência - Samatā-jñāna, the wisdom of the "Awareness of Sameness", which perceives the sameness, the commonality of dharmas or phenomena.[2]
+**Consciência da Equivalência** - Samatā-jñāna, the wisdom of the "Awareness of Sameness", which perceives the sameness, the commonality of dharmas or phenomena.[2]
 
-Consciência Discriminativa- Pratyavekṣaṇa-jñāna, the wisdom of "Investigative Awareness", that perceives the specificity, the uniqueness of dharmas.[2]
+**Consciência Discriminativa**- Pratyavekṣaṇa-jñāna, the wisdom of "Investigative Awareness", that perceives the specificity, the uniqueness of dharmas.[2]
 
-Consciência Realizadora - Kṛty-anuṣṭhāna-jñāna, the wisdom of "Accomplishing Activities", the awareness that "spontaneously carries out all that has to be done for the welfare of beings, manifesting itself in all directions".[2]
+**Consciência Realizadora** - Kṛty-anuṣṭhāna-jñāna, the wisdom of "Accomplishing Activities", the awareness that "spontaneously carries out all that has to be done for the welfare of beings, manifesting itself in all directions".[2]
 
 # As Cinco Firmezas
 
